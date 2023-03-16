@@ -114,3 +114,11 @@ docker tag docker.io/sanraman/cart:v1 imageID
     * Securiy of the Images , it should zero to none vulnerabilites as per your organization standard
 
 ```
+
+
+### Important Point :
+
+```
+1) Stopping the container means KILLING the container 
+2) Starting the container means CREATING a new container
+```
